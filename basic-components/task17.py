@@ -17,3 +17,4 @@ nimi = "Matti"
 pituus = 4.5
 leveys = 34.2
 pinta_ala = 46.5
+onko_lammin = False
