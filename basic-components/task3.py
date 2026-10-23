@@ -1,0 +1,6 @@
+print("Yksi")
+print("Kaksi")
+print("Kolme")
+print("Neljä")
+print("Viisi")
+print("Kuusi")
